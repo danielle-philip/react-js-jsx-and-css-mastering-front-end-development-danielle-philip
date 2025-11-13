@@ -6,7 +6,7 @@ Built using **Vite + React 18 + Tailwind CSS 3**.
 ---
 
 ## 🚀 Live Demo
-**Deployed URL:** [https://your-app-name.vercel.app](https://your-app-name.vercel.app)  
+**Deployed URL:** https://react-js-jsx-and-css-mastering-fron-lime.vercel.app/
 *(Replace this with your actual deployed URL after publishing to Vercel / Netlify / GitHub Pages.)*
 
 ---
